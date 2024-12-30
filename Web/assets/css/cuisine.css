@@ -1,0 +1,333 @@
+body {
+    margin: 0;
+}
+#header {
+    height: var(--header-height);
+    position: relative;
+}
+#header::after {
+    background-image: url(/assets/img/descui/foodbg.jpg);
+    filter: brightness(50%);
+}
+.header-nav__menu-icon {
+    color: var(--primary-food);
+}
+.header-nav__list { 
+    color: var(--text-color-1)
+}
+.header-nav__title-link  {
+    color: var(--text-color-1)
+}
+/*body-intro*/
+#backtop {
+    color: var(--primary-food);
+    background-color:#0c243d;
+}
+#body-about {
+    background-color: var(--bg-food);
+    padding: 60px;
+}
+.body-intro__title {
+    color: var(--primary-food);
+    font-size: 3rem;
+    font-family: var(--font-title-food);
+}
+.body-intro__msg {
+    color: var(--text-color-1);
+    font-size: 5rem;
+    line-height: 5rem;
+}
+.body-intro__text {
+    color: var(--text-color-1);
+    font-size: 1.8rem;
+}
+.body-intro__img {
+    height: 550px;
+}
+/*body-suggest*/
+#body-suggest {
+    padding: 60px;
+    background-color: var(--text-color-2);
+    text-align: center;
+}
+.body-suggest__title {
+    color: var(--primary-food);
+    font-size: 4rem;
+    font-family: var(--font-title-food);
+   
+}
+.body-suggest__msg {
+    color: var(--text-color-1);
+    font-size: 2.8rem;
+}
+.body-suggest-outline {
+    background-color: #101418;
+    border: 1px solid var(--primary-food);
+    padding: 30px;
+    display: block;
+    text-decoration: none;
+    min-height: 592px;
+}
+.body-suggest__img {
+    width: 100%;
+    max-height: 257px;
+}
+.body-suggest__region {
+    color: var(--text-color-1);
+    font-size: 2rem;
+}
+.body-suggest__text {
+    color: var(--text-color-1);
+    font-size: 1.8rem;
+}
+/*body-listfood*/
+#body-listfood {
+    background-color: var(--bg-food);
+    padding: 60px;
+    
+}
+.body-listfood__title {
+    color: var(--primary-food);
+    font-size: 4rem;
+    text-align: center;
+    font-family: var(--font-title-food);
+
+}
+.menu-nav {
+    color: var(--text-color-1);
+    font-size: 1.8rem;
+}
+.menu-nav-list{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+
+}
+.menu-nav-list__item {
+   text-align: center;
+   background-color: var(--primary-food);
+   padding: 8px 20px;
+   border-radius: 20px;
+   min-width: 110px;
+   font-size: 1.6rem;
+   font-weight: 800; 
+   cursor: pointer;
+   transition: all linear 0.3s;
+}
+.menu-nav-list__item--active {
+    background-color: #ffae3b;
+}
+.menu-food {
+    margin-top: 20px;
+}
+.menu-food-list {
+    list-style: none;
+    background-color: var(--text-color-2);
+    padding: 30px;
+    border: 1px solid var(--primary-food);
+    border-radius: 20px;
+}
+.menu-food-item {
+    display: flex;
+    align-items: center;
+    padding: 20px 0px;
+    font-family: var(--font-mini);
+}
+.menu-food-item__text {
+    min-height: 160px;
+}
+.menu-food-item__text-name {
+    font-size: 2.5rem;
+    color: var(--primary-food);
+}
+.menu-food-item__text-intro {
+    font-size: 1.6rem;
+    color: var(--text-color-1);
+}
+.menu-food-item__img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+/*body-rate*/
+#body-rate {
+    background-color: var(--text-color-2);
+    padding: 0px 60px;
+}
+.body-rate__say {
+    height: 240px;
+    width: 90%;
+    margin: auto;
+    padding: 30px;
+    background-color: #101418;
+    overflow: hidden;
+}
+.body-rate-main {
+    transition: all linear 0.4s;
+}
+.body-rate-head {
+    display: flex;
+    justify-content: space-between;
+}
+.body-rate--pro {
+    margin: auto;
+}
+.body-rate-head__infpr-avt {
+    width: 80px;
+    height: 80px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.body-rate-head__infor {
+    display: flex;
+    align-items: center;
+}
+.body-rate-head__infor-name {
+    color: var(--text-color-1);
+    font-size: 3rem;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.body-rate-head__infor-job {
+    color: var(--primary-food);
+    font-size: 1.8rem;
+    margin: 0px;
+}
+.body-rate-head__icon {
+    color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: var(--primary-food);
+    font-size: 5rem;
+}
+.body-rate__img {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.body-rate-contain {
+    font-size: 1.5rem;
+    color: var(--text-color-1);
+    font-family: var(--font-mini);
+    min-height: 75px;
+    max-height: 75px;
+    margin: 15px 0;
+}
+.body-rate-head-contain__text {
+    margin: 0;
+ 
+}
+.body-rate-contral {
+    display: flex;
+    justify-content: flex-end;
+}
+.body-rate-contral__btn {
+    outline: none;
+    border: 1px solid var(--primary-food);
+    background-color: transparent;
+    padding: 5px;
+    cursor: pointer;
+    margin: 0 5px;
+}
+.body-rate-contral__btn--active {
+    background-color: var(--primary-food);
+    transition: all linear 0.3s;
+}
+
+/*body-profes*/
+#body-profes {
+    background-color: var(--bg-food);
+    text-align: center;
+    padding: 60px;
+}
+.body-profes {
+    flex-wrap: nowrap;
+    overflow: hidden;
+}
+.body-profes-main {
+    display: flex;
+    transform: translateX(10px);
+    transition: all linear 0.3s;
+}
+.body-profes__title {
+    font-size: 2.5rem;
+    color: var(--primary-food);
+    margin-bottom: 60px;
+}
+.body-profes__avt {
+    width: 100%;
+    height: 300px;
+}
+.body-profes-infor {
+    padding: 10px;
+    width: 80%;
+    margin: 0 auto;
+}
+.body-profes-infor__name {
+    font-size: 2rem;
+    color: var(--primary-food);
+    margin: 8px 0px;
+}
+.body-profes-infor__achive {
+    font-size: 1.8rem;
+    color: var(--text-color-1);
+    margin: 0;
+}
+.body-profes-contral{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.body-profes-contral__btn {
+    outline: none;
+    border: 1px solid var(--primary-food);
+    background-color: transparent;
+    padding: 8px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+.body-profes-contral__btn--active {
+    background-color: var(--primary-food);
+    transition: all linear 0.3s;
+}
+/*body-michelin*/
+#body-michelin {
+    background-color: var(--text-color-2);
+    padding: 60px;
+}
+.body-michelin__title {
+    color: var(--primary-food);
+    font-size: 4rem;
+    font-family: var(--font-title-food);
+    line-height: 5rem;
+    text-align: center;
+}
+.body-michelin__img {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    display: block;
+}
+.body-michelin__name {
+    font-size: 3rem;
+    color: var(--primary-food);
+}
+.body-michelin__contain {
+    font-size: 1.8rem;
+    text-align: justify;
+    color: var(--text-color-1);
+    font-family: var(--font-mini);
+}
+.body-michelin__location {
+    color: var(--primary-food);
+    font-size: 2rem;
+}
+.body-michelin-item {
+    display: flex;
+    margin: 30px 0px;
+}
+.body-profes-contral__btn--tablet {
+    display: none;
+}

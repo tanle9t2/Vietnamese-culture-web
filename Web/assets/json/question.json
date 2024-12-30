@@ -1,0 +1,259 @@
+{
+  "questions": [
+    {
+      "info": {
+        "name": "user",
+        "title": "What does set and get do? I dont understand his explanation",
+        "description": "Please can someone explain get and set do. I dont understand his explanation"
+      },
+      "reply": [
+        {
+          "name": "user",
+          "description": "dasd"
+        },
+        {
+          "name": "user",
+          "description": "Beautiful"
+        },
+        {
+          "name": "user",
+          "description": "Im glad that it helped to you :) It was a great excercise to try to explain how I understanded a tricky concept. This course is really great, I have improved a lot doing it, and still come back to consult. Good luck!"
+        },
+        {
+          "name": "user",
+          "description": "Im glad that it helped to you :) It was a great excercise to try to explain how I understanded a tricky concept. This course is really great, I have improved a lot doing it, and still come back to consult. Good luck!Im glad that it helped to you :) It was a great excercise to try to explain how I understanded a tricky concept. This course is really great, I have improved a lot doing it, and still come back to consult. Good luck!"
+        },
+        {
+          "name": "user",
+          "description": "Well ,we could have named calculateAge() just as age()  and not worry about calculation behind the scenes .So basically using a getter instead of simple function-method allows us to call function as a property , i mean without parentheses john.age not john.age()  . As far as i understood it is the only reason for getter to exist."
+        },
+        {
+          "name": "user",
+          "description": "Well ,we could have named just as  and not worry about calculation behind the scenes "
+        },
+        {
+          "name": "user",
+          "description": "I'll show you this with an example.Let's stick with age. Age is something that changes in time, right? That's why we don't store the age in a property, but instead, we store the year of a person's birth, and then, calculate the age when we need it. To "
+        }
+      ],
+      "id": 1
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
+        "description": "Well ,we could have named calculateAge() just as age()  and not worry about calculation behind the scenes .So basically using a getter instead of simple function-method allows us to call function as a property , i mean without parentheses john.age not john.age()  . As far as i understood it is the only reason for getter to exist."
+      },
+      "reply": [
+        {
+          "name": "user",
+          "description": "Im glad that it helped to you :) It was a great excercise to try to explain how I understanded a tricky concept. This course is really great, I have improved a lot doing it, and still come back to consult. Good luck!"
+        },
+        {
+          "name": "user",
+          "description": "Yes Eugene but obviously using a getter makes the whole thing much cleaner for the end users. You must understand that OOP is mainly used by programmers of big projects that will then share the code with other developers and making the API as clean as possible and easily accessible is key in these cases! :)Load more answers"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "great explanation hope Jonas",
+        "description": "Well ,we could have named calculateAge() just as age()  and not worry about calculation behind the scenes .So basically using a getter instead of simple function-method allows us to call function as a property , i mean without parentheses john.age not john.age()"
+      },
+      "reply": [
+        {
+          "name": "user",
+          "description": "How to get pizza ?"
+        },
+        {
+          "name": "user",
+          "description": "Im glad that it helped to you :) It was a great excercise to try to explain how I understanded a tricky concept. This course is really great, I have improved a lot doing it, and still come back to consult. Good luck!Im glad that it helped to you :) It was a great excercise to try to explain how I unde"
+        },
+        {
+          "name": "user",
+          "description": "Im glad that it helped to you :) It was a great excercise to try to explain how I understanded a tricky concept. This course is really great, I have improved a lot doing it, and still come back to consult. Good luck!Im glad that it helped to you :) It was a great excercise to try to explain how I understanded a tricky concept. This course is really great, I have improved a lot doing it, and still come back to consult. Good luck!"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "Values vs References",
+        "description": "When we pass a primitive type as an argument on a function, the function makes a copy of the original value, and works with it.When we pass an object as an argument on a function, the function makes a copy of the reference that points to the place of the memory where the object is stored. This copy is a value itself, is not a reference. Through this value, the original object can be modified from inside of a function."
+      },
+      "reply": [
+        {
+          "name": "user",
+          "description": "Im glad that it helped to you :) It was a great excercise to try to explain how I understanded a tricky concept. This course is really great, I have improved a lot doing it, and still come back to consult. Good luck!"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "Summary",
+        "description": "In programming languages, Arguments can be passed by value, or passed by reference.- JavaScript works only passing by value.- When we pass primitive values, the function works with a value, which is a copy of the original value.- When we pass an object, the functio"
+      },
+      "reply": [
+        {
+          "name": "user",
+          "description": "Im glad that it helped to you :) It was a great excercise to try to explain how I understanded a tricky concept. This course is really great, I have improved a lot doing it, and still come back to consult. Good luck!Im glad that it helped to you :) It was a great excercise to try to explain how I understanded a tricky concept. This course is really great, I have improved a lot doing it, and still come back to consult. Good luck!"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+        "description": "Yes, that sounds perfect, you got it 100% right! 👏So, the subtle thing that makes JS different from some other languages, is that the reference to an object is in itself a value, that's why we only have passing by value, basically. I see you already understood that, just wanted to reiterate on this once again 😃"
+      },
+      "reply": [],
+      "id": 6
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "askingTextbox",
+        "description": "Well ,we could have named calculateAge() just as age()  and not worry about calculation behind the scenes .So basically using a getter instead of simple function-method allows us to call function as a property , i mean without parentheses john.age not john.age()  . As far as i understood it is the only reason for getter to exist. 33 3 43 4 4 43 43 4 43 3 43  3434 34 43 43 3 443 "
+      },
+      "reply": [],
+      "id": 7
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "askingTextbox",
+        "description": "Well ,we could have named calculateAge() just as age()  and not worry about calculation behind the scenes .So basically using a getter instead of simple function-method allows us to call function as a property , i mean without parentheses john.ageWell ,we could have named calculateAge() just as age()  and not worry about calculation behind the scenes .So basically using a getter instead of simple function-method allows us to call function as a property , i me"
+      },
+      "reply": [],
+      "id": 8
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "Tan Phat",
+        "description": "apsod asodk a[skd[ ask[d k[adk asko[d"
+      },
+      "reply": [],
+      "id": 9
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "Le Tan Phat",
+        "description": "I hope to know more about VN"
+      },
+      "reply": [],
+      "id": 10
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "I hope to know more about VN",
+        "description": "asdasd"
+      },
+      "reply": [
+        {
+          "name": "user",
+          "description": "sdfsdfsdf"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "Tan Le",
+        "description": "I hope to know more about VN"
+      },
+      "reply": [
+        {
+          "name": "user",
+          "description": "DSD"
+        },
+        {
+          "name": "user",
+          "description": "dasjdasasdpasdasddasjdasasdpasdasddasjdasasdpasdasddasjdasasdpasdasddasjdasasdpasdasddasjdasasdpasdasddasjdasasdpasdasddasjdasasdpasdasddasjdasasdpasdasddasjdasasdpasdasddasjdasasdpasdasddasjdasasdpasdasddasjdasasdpasdasddasjdasasdpasdasd"
+        },
+        {
+          "name": "Phat",
+          "description": "Hihihihihi"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
+        "description": "asd"
+      },
+      "reply": [],
+      "id": 13
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "sd",
+        "description": "Yes, that sounds perfect, you got it 100% right! 👏So, the subtle thing that makes JS different from some other languages, is that the reference to an object is in itself a value, that's why we only have passing by value, basically. I see you already understood that, just wanted to reiterate on this once again 😃"
+      },
+      "reply": [],
+      "id": 14
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "SD",
+        "description": "Yes, that sounds perfect, you got it 100% right! 👏So, the subtle thing that makes JS different from some other languages, is that the reference to an object is in itself a value, that's why we only have passing by value, basically. I see you already understood that, just wanted to reiterate on this once again 😃"
+      },
+      "reply": [],
+      "id": 15
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "eef",
+        "description": "qwerwe"
+      },
+      "reply": [],
+      "id": 16
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "aadw",
+        "description": "asd"
+      },
+      "reply": [],
+      "id": 17
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "dasdas",
+        "description": "Yes, that sounds perfect, you got it 100% right! 👏So, the subtle thing that makes JS different from some other languages, is that the reference to an object is in itself a value, that's why we only have passing by value, basically. I see you already understood that, just wanted to reiterate on this once again 😃"
+      },
+      "reply": [],
+      "id": 18
+    },
+    {
+      "info": {
+        "name": "user",
+        "title": "asd",
+        "description": "Yes, that sounds perfect, you got it 100% right! 👏So, the subtle thing that makes JS different from some other languages, is that the reference to an object is in itself a value, that's why we only have passing by value, basically. I see you already understood that, just wanted to reiterate on this once again 😃"
+      },
+      "reply": [
+        {
+          "name": "user",
+          "description": "asda"
+        }
+      ],
+      "id": 19
+    }
+  ]
+}

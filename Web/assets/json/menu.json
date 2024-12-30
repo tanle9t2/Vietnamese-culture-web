@@ -1,0 +1,520 @@
+{
+    "about": [
+      {
+        "title":"FEATURES OF VIETNAM Culinary",
+        "text":"Vietnam is an agricultural country belonging to the hot, tropical monsoon region. In addition, the territory of Vietnam is divided into three distinct regions: North, Central and South, along with 54 ethnic groups. It is the characteristics of geography, culture, ethnicity, and climate that determine the specific characteristics of the cuisine of each region - region. Every region has typical taste. That contributes to the richness and diversity of Vietnamese cuisine. This is a food culture that uses a lot of vegetables (boiled, fried, pickled, eaten raw). The most commonly used meats are meat. pigs, cows, chickens, swans, ducks, shrimp, fish, crabs, snails, mussels, mussels, cockles,..."
+      }
+    ],
+    "feature": [
+     {
+      "region":"North",
+      "text":"Standard dishes of the North often have a sweet, gentle or sour taste of batch, of crocodile. Some famous specialties can be mentioned such as bun cha, pho, bun thang, Ho Tay shrimp cake, frozen meat, etc.",
+      "img":"https://cokhiquanghuy.com/uploaded/cach-nau-pho-bo-thom-ngon-de-nau.jpg"
+     },
+     {
+      "region":"Middel",
+      "text":"Central dishes are the pungent taste of chili - an indispensable spice in the cooking of the Central people. This also comes from the fact that people here often go to work in the sea, eat hot peppers to feel warmer.",
+      "img":"https://wiki-travel.com.vn/Uploads/picture/teppi-145303105306-5-banh-can-nha-trang.jpg"
+     },
+     {
+      "region":"Southern",
+      "text":"Coming to the South, the culinary features are rustic, rustic but extremely rich. Southern people like sweet dishes, so they often season with sugar or use coconut water to cook.. With close, easy-to-find ingredients and simple processing",
+      "img":"https://ik.imagekit.io/tvlk/blog/2022/06/dac-san-mien-nam-8.jpeg"
+     }
+    ],
+
+    "menu":{
+        "all": [
+          {
+            "name":"Pho",
+            "intro":"This dish includes broth, noodles, beef, chicken and a little green onion, cilantro. It's simple, but not everyone can do it.",
+            "img":"https://media1.nguoiduatin.vn/media/bui-thi-ngan/2018/09/03/pho-1.jpg"
+          },
+          {
+            "name":"Quang Noodles",
+            "intro":"A delicious bowl of noodles with shrimp, sliced ​​fresh pork or shredded chicken, the fatty taste of oil, the aroma of peanuts, the broth is sweet enough to absorb",
+            "img":"https://monngondathanh.com/wp-content/uploads/2019/06/73-min.jpg"
+          },
+          {
+            "name":"Vietnamese thick noodle soup with sentinel crab",
+            "intro":"The best crab cake soup is the thick broth with eye-catching yellow crab bricks. When eating, you will feel the sweetness of the crab meat and the rich taste of the broth",
+            "img":"https://cdn.justfly.vn/960x710/media/202302/13/1676255958-banh-canh-ghe-ngoc-lam-vung-tau-2.jpg"
+          },
+          {
+            "name":"Fish rice noodle soup",
+            "intro":"Hai Phong fish vermicelli is a unique dish of the port land with an interwoven combination of rural flavors and the salty taste of the sea.",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz7En25WCZXIZWgBrzzE_I59O-cBeWaq-NZA&usqp=CAU"
+          },
+          {
+            "name":"Hue Beef noodle soup",
+            "intro":"Hue beef noodle soup is a harmonious combination of sweet and savory broth, and full of nutritious vegetables and tubers.",
+            "img":"https://thuvienamthuc.vn/app_images/news/2021/06/15/hoc-nau-bun-bo-hue-ngon-dam-da-chuan-vi-800-143338.jpg"
+          },
+          {
+            "name":"Grilled Snakehead Fish",
+            "intro":"Grilled snakehead fish is made from clean snakehead fish, using straw to bake until the fish is cooked, with a strong aroma. Snakehead fish meat has a soft taste, eaten with rice paper, with raw vegetables and seasoning sauce.",
+            "img":"https://daotaobeptruong.vn/wp-content/uploads/2020/07/ca-loc-nuong-trui.jpg"
+          }
+        ],
+        "north": [
+          {
+            "name":"Pho",
+            "intro":"This dish includes broth, noodles, beef, chicken and a little green onion, cilantro. It's simple, but not everyone can do it.",
+            "img":"https://media1.nguoiduatin.vn/media/bui-thi-ngan/2018/09/03/pho-1.jpg"
+          },
+          {
+            "name":"Fish rice noodle soup",
+            "intro":"Hai Phong fish vermicelli is a unique dish of the port land with an interwoven combination of rural flavors and the salty taste of the sea.",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz7En25WCZXIZWgBrzzE_I59O-cBeWaq-NZA&usqp=CAU"
+          },
+          {
+            "name":"Braised fish in Vu Dai village",
+            "intro":"The main ingredient is black carp which is carefully marinated with a variety of ingredients and esoteric recipes. After that, the fish is stored in an earthen pot for many hours so that the meat is soft, absorbed and has an irresistible aroma.",
+            "img":"https://thucphamtienloi.com/wp-content/uploads/2020/05/ca-kho-vu-dai-400x400.jpg"
+          },
+          {
+            "name":"Buffalo Meat Upstairs Kitchen",
+            "intro":"Northwestern kitchen buffalo is made from fresh corn, marinated with rich spices. To enjoy, this northern specialty is usually grilled or steamed.",
+            "img":"https://quaqueviet.vn/quaquaviet/files/images/anh-blog/cach-che-bien-thit-trau-gac-bep-1.jpg"
+          },
+          {
+            "name":"Pork crackling",
+            "intro":"The pig is roasted whole with crispy, golden skin. The meat has an irresistible sweet taste because it is marinated and processed with honeydew fruit and leaves.",
+            "img":"https://photo-cms-vovworld.zadn.vn/w500/Uploaded/vovworld/yzfsm/2017_04_11/ve_lang_son_dung_quen_an_lon_quay_khau_nhuc_jpg0.jpg"
+          },
+          {
+            "name":"Crab spring rolls",
+            "intro":"Made from fresh crab meat with a variety of ingredients such as: pork, carrot, bean sprouts, wood ear,... The ingredients are harmoniously combined according to a unique recipe to create a fresh and delicious taste. attractive for the food.",
+            "img":"https://29foods.com/media/news/2908_NemCuab.jpg"
+          }
+        ],
+        "middle": [
+          {
+            "name":"Quang Noodles",
+            "intro":"A delicious bowl of noodles with shrimp, sliced ​​fresh pork or shredded chicken, the fatty taste of oil, the aroma of peanuts, the broth is sweet enough to absorb",
+            "img":"https://monngondathanh.com/wp-content/uploads/2019/06/73-min.jpg"
+          },
+          {
+            "name":"Hue Beef noodle soup",
+            "intro":"Hue beef noodle soup is a harmonious combination of sweet and savory broth, and full of nutritious vegetables and tubers.",
+            "img":"https://thuvienamthuc.vn/app_images/news/2021/06/15/hoc-nau-bun-bo-hue-ngon-dam-da-chuan-vi-800-143338.jpg"
+          },
+          {
+            "name":"Vietnamese mini pancake",
+            "intro":"This is a very famous cake of the central coastal provinces, similar in shape to the banh khot of the South. But the filling of banh can is much richer and more diverse, with many types such as: meat, eggs, mushrooms, squid, shrimp...",
+            "img":"https://baodanang.vn/dataimages/201905/original/images1512207_DSCF5837.jpg"
+          },
+          {
+            "name":"Stuffed pancake",
+            "intro":"A delicious roll cake will be thoroughly coated, ensuring the right thinness but also chewy aroma. Inside the intestines will be the filling with pork, shrimp, wood ear, shiitake mushrooms.",
+            "img":"https://cdn.tgdd.vn/Files/2022/06/22/1441531/mien-trung-co-dac-san-gi-15-dac-san-mien-trung-mua-lam-qua-202206221113364020.jpg"
+          },
+          {
+            "name":"Vietnamese corn sweet soup",
+            "intro":"When corn tea is cooked, it will be sticky, coconut milk will be covered on top of the tea to create a rich, rich taste when enjoying.",
+            "img":"https://higlum.com/wp-content/uploads/2021/01/huong-dan-nau-che-bap.jpg"
+          },
+          {
+            "name":"Nha Trang's bird's nest",
+            "intro":"This dish is usually served hot with a bit of onion fat and fried onions. Then served with grilled pork or crispy roasted meat. Hue wet cake is dipped with fish sauce mixed with garlic, chili, sugar and lemon",
+            "img":"https://yeubepviet.com/wp-content/uploads/2021/05/nuoc-sot-me-cham-banh-uot-thit-nuong.jpg"
+          }
+        ],
+        "southern": [
+          {
+            "name":"Vietnamese thick noodle soup with sentinel crab",
+            "intro":"The best crab cake soup is the thick broth with eye-catching yellow crab bricks. When eating, you will feel the sweetness of the crab meat and the rich taste of the broth",
+            "img":"https://cdn.justfly.vn/960x710/media/202302/13/1676255958-banh-canh-ghe-ngoc-lam-vung-tau-2.jpg"
+          },
+          {
+            "name":"Tay Ninh heifer",
+            "intro":"Heifer will usually be cooked evenly on a pink fire, even though the outside layer of meat is scorched, the inside still retains moisture, bringing a red-pink color.",
+            "img":"https://statics.vinpearl.com/bo-to-tay-ninh-2_1631970514.jpg"
+          },
+          {
+            "name":"Pandan leaf cake",
+            "intro":"The cake has a characteristic color with green and white, when eaten, it will be sprinkled with greasy coconut milk, sprinkled with a little more peanuts or sesame.",
+            "img":"https://www.huongnghiepaau.com/wp-content/uploads/2019/01/banh-duc-la-dua.jpg"
+          },
+          {
+            "name":"Pancake",
+            "intro":"Delicious, crispy pancake layer with filling from ingredients such as shrimp, pork, chicken, green beans, papaya,... served with raw vegetables, dipped with sour fish sauce sweet",
+            "img":"https://dulichvietnam.pro.vn/wp-content/uploads/2018/05/banh-xeo-mien-tay-4.jpg"
+          },
+          {
+            "name":"Grilled Snakehead Fish",
+            "intro":"Grilled snakehead fish is made from clean snakehead fish, using straw to bake until the fish is cooked, with a strong aroma. Snakehead fish meat has a soft taste, eaten with rice paper, with raw vegetables and seasoning sauce.",
+            "img":"https://daotaobeptruong.vn/wp-content/uploads/2020/07/ca-loc-nuong-trui.jpg"
+          },
+          {
+            "name":"Sadec noodle soup",
+            "intro":"The broth is stewed with sweet pork bones, filled with soft chewy noodles, combined with thinly sliced ​​pork slices, adding a little pork liver or fresh shrimp.",
+            "img":"https://media.loveitopcdn.com/5254/goi-y-noi-ban-banh-hu-tieu-sa-dec-gia-re.jpg"
+          }
+        ]
+      },
+      "city":[
+        {
+          "img":"./asset/img/hoian.webp",
+          "name":"Hoi An"
+        },
+        {
+          "img":"./asset/img/fansibang.webp",
+          "name":" Fansipan and the Muong Hoa Valley"
+        }, {
+          "img":"./asset/img/bangioc.webp",
+          "name":"Ban Gioc Waterfall"
+        }, {
+          "img":"./asset/img/ninhbinh.webp",
+          "name":"Ninh Binh Province"
+        }, {
+          "img":"./asset/img/saigon.avif",
+          "name":" Ho Chi Minh City"
+        }, {
+          "img":"./asset/img/sondoong.webp",
+          "name":" Hang Sơn Đoòng"
+        }
+      ],
+      "intro": {
+        "listcity":["Ho Chi Minh","Hoi An","Da Nang","Nha Trang","Phu Quoc","Da Lat"],
+        "Ho Chi Minh": [
+          {
+            "name":"Ho Chi Minh",
+            "text1":"Ho Chi Minh City (HCMC for short) or Saigon, is the largest city in Vietnam and a megacity in the near future. It is also an economic and entertainment center and one of two cultural and educational centers in Vietnam. Ho Chi Minh City is a centrally run city belonging to a special urban type of Vietnam.",
+            "text2":"The largest and most famous church of the city is Notre Dame Cathedral, located in District 1. Important architectural works, such as: Opera House, Central Post Office, Nha Rong Wharf, Independence Palace,... Landmark 81 is a supertall skyscraper in Ho Chi Minh City, Vietnam.It is invested and developed by Vinhomes, the Vietnamese largest real-estate developer. Landmark 81 holds the position of the tall building in Vietnam, the second height building in Southeast Asia, as well as the 18th tall building in the world.",
+            "img":"./asset/img/landmark81.jpg",
+            "province": "Ho Chi Minh",
+            "area":"2.095 km²",
+            "population":"8.993.082 (2019)",
+            "location":"10°10' – 10°38' North and 106°22' – 106°54' East.",
+            "temperture":"25 - 28 °C"
+           }
+        ],
+        "Hoi An":[
+          {
+            "name":"Hoi An",
+            "text1":"Hội An (Vietnamese: [hôjˀ aːn] (listen)), formerly known in English as Fai-Fo or Faifoo, is a city with a population of approximately 120,000 in Vietnam's Quảng Nam Province and has been noted as a UNESCO World Heritage Site since 1999. Along with the Cu Lao Cham archipelago, it is part of the Cu Lao Cham-Hoi An Biosphere Reserve, designated in 2009.",
+            "text2":"Old Town Hội An, the city's historic district, is recognized as an exceptionally well-preserved example of a Southeast Asian trading port dating from the 15th to the 19th century, its buildings and street plan reflecting a blend of indigenous and foreign influences. Prominent in the city's old town is its covered \"Temple Bridg\", dating to the 16th–17th century.",
+            "img":"https://images.unsplash.com/photo-1558334466-afce6bf36c69?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aG9pJTIwYW4lMkMlMjB2aWV0bmFtfGVufDB8fDB8fHww&w=1000&q=80",
+            "province":"Quang Nam",
+            "area":"61,48 km²²",
+            "population":"152.160 (2018)",
+            "location":"15°53′0″B 108°20′0″Đ",
+            "temperture":"25,6 - 39,8 °C"
+          }
+        ],
+        "Da Nang":[
+          {
+            "name":"Da Nang",
+            "text1":"Da Nang or Danang is a class-1 municipality and the fifth-largest city in Vietnam by municipal population. It lies on the coast of the East Sea of Vietnam at the mouth of the Hàn River, and is one of Vietnam's most important port cities. As one of the country's five direct-controlled municipalities, it falls under the administration of the central government. ",
+            "text2":"Da Nang is the commercial and educational center of Central Vietnam and is the largest city in the region. It has a well-sheltered, easily accessible port, and its location on National Route 1 and the North–South Railway makes it a transport hub. It is within 100 km (62 mi) of several UNESCO World Heritage Sites, including the Imperial City of Huế, the Old Town of Hội An, and the Mỹ Sơn ruins.",
+            "img":"https://statics.vinpearl.com/du-lich-da-nang_1657939501.JPG",
+            "province":"Quang Nam",
+            "area":"1.285 km²",
+            "population":"1,134 milion (2019)",
+            "location":"15°15' to 16°40' North latitude and from 107°17' to 108°20' East longitude",
+            "temperture":"18 - 30 °C"
+          }
+        ],
+        "Nha Trang":[
+          {
+            "name":"Nha Trang",
+            "text1":"Historically, the city was known as Kauthara under rule of the Kingdom of Champa. The city is still home to the famous Po Nagar Towers built by the Champa. Being a coastal city, Nha Trang is a center for marine science based at the Nha Trang Oceanography Institute. The Hon Mun marine protected area is one of four first marine protected areas in the world admitted by the IUCN.",
+            "text2":"Nha Trang is well known for its beaches and scuba diving and has developed into a popular destination for international tourists, attracting large numbers of backpackers, as well as more affluent travelers on the south-east Asia circuit; it is already very popular with Vietnamese tourists, with Nha Trang Bay widely considered as among the world's most beautiful bays.[citation needed] Tourists are welcomed to participate in the Sea Festival, held biennially.",
+            "img":"https://vcdn1-vnexpress.vnecdn.net/2021/03/22/NhaTrang-KhoaTran-27-1616120145.jpg?w=900&h=540&q=100&dpr=1&fit=crop&s=ttOrgTw0iJpZmbECf1siwQ",
+            "province":"Khanh Hoa",
+            "area":"251 km²",
+            "population":"535.000 (2018)",
+            "location":"12°15'53″N (North) - 109°13'41″E (East)",
+            "temperture":"25⁰C - 26 ⁰C"
+          }
+        ],
+        "Phu Quoc":[
+          {
+            "name":"Phu Quoc",
+            "text1":"Its primary industries are fishing, agriculture, and a fast-growing tourism sector. Phú Quốc has achieved fast economic growth due to its current tourism boom. Many infrastructure projects have been carried out, including several five-star hotels and resorts. Phú Quốc International Airport is the hub connecting Phú Quốc with mainland Vietnam and other international destinations.",
+            "text2":"Phú Quốc is famous for its two traditional products: fish sauce and black pepper. The rich fishing grounds offshore provides the anchovy catch from which the sauce is made. As widely agreed among the Vietnamese people, the best fish sauce comes from Phú Quốc. The island name is coveted and abused in the fish sauce industry that local producers have been fighting for the protection of its appellation of origin. Pepper is cultivated everywhere on the island, especially at Gành Dầu and Cửa Dương communes. The pearl farming activity began more than 20 years ago when Australian and Japanese experts arrived to develop the industry with advanced technology. Some Vietnamese pearl farms were established at that time including Quốc An.",
+            "img":"https://top10binhdinh.com/wp-content/uploads/2023/02/60bf463a5f23440fc311003f62c6e4bb.jpg",
+            "province":"Kien Giang",
+            "area":"589,27 km²",
+            "population":"144.460 (2020)",
+            "location":"10°14'26.2″N - 103°58'21.2″E",
+            "temperture":"25 - 27 ⁰C"
+          }
+        ],
+        "Da Lat": [
+          {
+            "name":"Da lat",
+            "text1":"Da Lat's specific sights are pine woods and twisting roads full of marigold (Vietnamese: hoa dã quỳ) and mimosa blossom in the winter. The city's temperate weather stands in contrast to Vietnam's otherwise tropical climate. Mist covering the valleys almost year-round leads to its name \"City of Eternal Spring\".",
+            "text2":"Hoa Binh Area is in the center downtown of Da Lat and attracts numerous visitors. Some popular sites located in the Hoa Binh Area are Coi Xay Gio bakery, Lien Hoa bakery, Windmills coffeehouse and Tung coffeehouse. Coi Xay Gio was known as a perfect selfie spot thanks to its remarkable yellow wall, though in 2021 the wall was repainted to discourage selfies due to danger from road vehicles.",
+            "img":"https://images2.thanhnien.vn/528068263637045248/2023/6/21/h2-1687347783328584450748.jpg",
+            "province":"Lam Dong",
+            "area":"394,6 km²",
+            "population":"425.000 (2020)",
+            "location":"11°56′25″N 108°26′13″E - 11.940381°N 108.436866°E",
+            "temperture":"always below 20°C"
+          }
+        ]
+      },
+      "heritage": {
+        "title":"Heritage",
+        "text":"The heritages not only demonstrate a beautiful \"S-band\", diverse landscapes, long history, but also a destination that attracts thousands of domestic and international tourists every year.",
+        "contain":[
+          {
+            "img":"./asset/img/hue.jpg",
+            "text":"Hue Ancient Architectural Complex are historical and cultural relics advocated by the Nguyen Dynasty to be built during the period from the early 19th century to the first half of the 20th century.",
+            "year":"12/1993"
+          },
+          {
+            "img":"./asset/img/myson.jpg",
+            "text":"My Son Sanctuary is located in Duy Phu commune, Duy Xuyen district, Quang Nam province, about 69 km from Da Nang city and near Tra Kieu ancient citadel, including many Champa temples.",
+            "year":"12/1999"
+          },
+          {
+            "img":"./asset/img/halong.avif",
+            "text":"Ha Long Bay is limited to an area of ​​about 1,553 km² including 1,969 large and small islands, most of which are limestone islands, in which the core area of ​​the bay has an area of ​​​​335 km² with a dense cluster of 775 islands.",
+            "year":"12/2020"
+          },
+          {
+            "img":"./asset/img/kebanh.jpg",
+            "text":"Phong Nha - Ke Bang National Park is a national park of Vietnam, located in Bo Trach and Minh Hoa districts, Quang Binh province, about 50 km northwest of Dong Hoi city, about 500 km south of Hanoi capital.",
+            "year":"7/2015"
+          }
+        ]
+      },
+     "activity":{
+      "listImg":[
+        {
+          "img":"https://hivelife.com/wp-content/uploads/2021/03/viet-hike-banner.jpg",
+          "text":"Climbing"
+        },
+        {
+          "img":"https://www.anywhere.com/blog/images/caving-in-vietnam-son-doong.png",
+          "text":"Caving"
+        },
+        {
+          "img":"https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/2/10/1146185/KAI08058.jpg",
+          "text":"Camping"
+        },
+        {
+          "img":"https://la-regina-cruise.com/wp-content/uploads/2020/10/Kayaking-Halong-Bay.jpg",
+          "text":"Kayaking"
+        }
+      ],
+      "Climbing": {
+        "Intro":"Trekking (climbing) is often understood as an adventure sport, conquering the highest peaks, difficult and new, requiring specific skills, for those who are professional in adventure. But in another direction, more popular, chosen by some people today, trekking is a type of adventure mountain tourism to explore nature, conquer the peaks safely, at a moderate level, suitability, is allowed.",
+        "Extral":"Climbing (Trekking) - Conquer, explore, overcome your limits",
+        "Title":"Top highest mountain in Viet Nam",
+        "Img":"https://static.vinwonders.com/production/trekking-in-vietnam-thumb.jpg",
+        "Contain": [
+          {
+            "name": "Name: Fansipan (3143)",
+            "location": "Location: the Hoang Lien Son range, about 9km from Sapa town in the southwest direction, in the Northwest of Vietnam.",
+            "difficult": "Feature: Forest at the top. Rain in the upper half at the top. It's very cold at the top",
+            "bestime": "The best time: Hunting the most beautiful clouds from October to April next year. From December to early February can hunt snow.",
+            "id": 1
+          },
+          {
+            "name": "Name: Phu Si Lung - 3080m ",
+            "location": "Location: near milestone 42, the Vietnam-China border is located in Pa Ve Te commune, Muong Te district, Lai Chau province.",
+            "difficult": "Features: long journey (100km both going and returning), many big streams and rapids",
+            "bestime": "The best time: From October to March",
+            "id": 2
+          },
+          {
+            "name": "Name: Putaleng (3049m)",
+            "location": "Location: Ta Leng commune, Phong Tho district, Lai Chau province",
+            "difficult": "Features: stream, bamboo forest",
+            "bestime": "The best time: From December to March",
+            "id": 3
+          },
+          {
+            "name": "Name: Ky Quan San (3046m)",
+            "location": "Location: Belonging to Ky Quan San range between Lao Cai and Lai Chau provinces",
+            "difficult": "Features: Bare hills, corn fields, bamboo forests, burnt wood forests, bamboo forests and craggy cliffs",
+            "bestime": "The best time: delivery time spring summer",
+            "id": 4
+          }
+        ]
+      },
+      "Camping":{
+        "Intro":"Camping (camping, camping): An outdoor activity where we will stay overnight, not sheltering in places such as houses or hotels, but using basic shelters such as tents or camping cars. Usually, campers will leave the city to spend time in more natural places to participate in activities that bring them joy or knowledge and life skills.",
+        "Extral":"Rest – Relax, and at the same time connect emotionally and solidarity among individuals",
+        "Title":"TOP IDEAL CAMP POINTS IN VIET NAM",
+        "Img":"https://stour.vn/uploads/attachments/ckxu4en7800qq01loaknxyj1e-da-la-travel.full.jpg",
+        "Contain":[
+          {
+            "name":"Name: Sea star eco-tourism area",
+            "location":"Location: Located in Binh Lap village, Cam Lap commune, about 30 km from Cam Ranh city, Khanh Hoa province",
+            "difficult":"Price: Coming to this place, you will be able to relax in tents or bungalows on the beach. The cost for the bungalows is 500,000 VND/night for 2 people.",
+            "bestime":"Outdoor activities: With this fresh atmosphere, besides fishing and swimming, you can participate in many interesting activities such as kayaking, boating, kite flying, cycling, squid fishing, climbing and camping,. ."
+          },
+          {
+            "name":"Name: Coco Beach Camp",
+            "location":"Location: About 180 km from Ho Chi Minh City, Coco Beach Camp, located in Lagi city, Binh Thuan province",
+            "difficult":"Price: This area will give you a lot of tent-related options, such as single tents, double tents, or tents for the whole family. Each one costs 150,000 VND/person.",
+            "bestime":"Outdoor activities: Here, you can admire the pristine scenery of Cam Binh beach, watch the blue sky, enjoy delicious seafood, take beautiful photos, and wake up to the sound of birds chirping."
+          },
+          {
+            "name":"Name: Đồng Mô",
+            "location":"Location: About 40 km from Hanoi city center",
+            "difficult":"Price: Necessary facilities such as bathrooms and general services are available. However, the price of tent rental is not cheap, customers have to pay about 400,000 VND/family tent and 200,000 VND/tent for 2 people for 24 hours.",
+            "bestime":"Outdoor activites: Dong Mo is a popular destination for camping lovers. Dong Mo is the name of a lake and Son Tinh is the name of the camping area located adjacent to that lake. This is great for camping, picnics, or weekend boating."
+          },
+          {
+            "name":"Nam Cat Tien National Park",
+            "location":"Stretching over three provinces of Lam Dong, Dong Nai and Binh Phuoc, about 160 km away from the hustle and bustle of Saigon",
+            "difficult":"Tent for rent here ranges from 80,000 VND to 200,000 VND/night. You can also bring your own tent.",
+            "bestime":"You will not only camp here but also have trekking and cycling trips to discover the beauty of nature. These 11 beautiful camping sites are guaranteed to make you fall in love with the nature of Vietnam. Pack your camping gear and join this exciting adventure at least once in your life!"
+          }
+        ]
+      },
+      "Caving":{
+        "Intro":"Caving - also known as spelunking in the United States and Canada and pothole walking in the United Kingdom and Ireland - is the amusement of exploring the wild cave system. In contrast, speleology is the scientific study of caves and cave environments.",
+        "Extral":"Cave exploring - Adventure, eplxoration, Dangerous",
+        "Title":"Caves in Vietnam For the Best Caving Experience",
+        "Img":"https://image.kkday.com/v2/image/get/w_960%2Cc_fit%2Cq_55%2Ct_webp/s1.kkday.com/product_121126/20210708082434_jOygs/jpg",
+        "Contain":[
+          {
+            "name":"Name: Son Doong Cave",
+            "location":"Feature: Son Doong Cave is not just the biggest cave in the world, it is also one of the longest caves in the world.The Son Doong Cave is so large, it has forests inside it and an entire weather system of its own.",
+            "difficult":"Price: VND 68,700,000 per person (approx. USD 3000 per person)",
+            "bestime":"Best tim: January to August"
+          },
+          {
+            "name":"Name: Paradise Caves",
+            "location":"Feature: The Grand Cathedral like the entrance of the Paradise Caves beckons you inside.Paradise cave is 31 kilometres long, making it one of the longest caves in the world. Out of the 31 kilometres, the maximum distance that the public is allowed up to is 3.5 kilometres deep.",
+            "difficult":"Price: (3.5 km) VND 2,650,000 per person, (2 km) VND 1,800,000 VND per person",
+            "bestime":"January to August"
+          },
+          {
+            "name":"Name: Dau Go Caves",
+            "location":"Feature: The Dau Go Cave (Wooden Stake Caves) is the largest and most beautiful grotto in the Halong Bay area. The caving experience is just a day trip and the activities involve rock climbing and cave exploration.",
+            "difficult":"Price:  Boat to the Caves: VND 1,500,000, Entrance: VND 30,000 per person",
+            "bestime":"January to October"
+          },
+          {
+            "name":"Name: Phong Nha Cave",
+            "location":"Feature: The Phong Nha Caves were among the first caves to be discovered in Vietnam, and one of the most-visit caves here. One must enter the cave by boat, sailing over the Son River that flows through this cave system.",
+            "difficult":"Price: Entrance: VND 300,000 per person, Boat cost: VND 360,000 (accommodates 14 passengers)",
+            "bestime":"October to December"
+          }
+        ]
+      },
+      "Kayaking": {
+        "Intro":"Kayak is a small & narrow boat, man-operated by rowing, it is designed to be used by hand rowing. Traditional kayaks have a deck with one or more seats, each with a rower.",
+        "Extral":"Exercise - Improve health - while watching the beauty of nature",
+        "Title":"Top kayaking spots in Vietnam",
+        "Img":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/09_2020/diem-cheo-thuyen-kayak-dep-o-viet-nam-dao-bai-sao-phu-quoc.jpg",
+        "Contain":[
+          {
+            "name":"Name: Nho Que river",
+            "location":"Feature: Coming here, you can experience kayaking on the emerald-green Nho Que river, cross the majestic rocky cliffs, enjoy the cool fresh air. If you come here in February, you can also get lost in the red rice flower season on both sides of the river.",
+            "difficult":"Price: Kayaking is also a way to feel the beauty of Nho Que river with a ticket price of 50,000 VND/person",
+            "bestime":"Ha Giang is not only a rocky plateau with majestic scenery located at the top of the country. This is also the most famous kayaking spot in our country, extremely attractive to guests who like this activity."
+          },
+          {
+            "name":"Name: Lan Ha Bay",
+            "location":"Feature: Lan Ha Bay is a beautiful kayaking place in Vietnam that is most loved by water sports enthusiasts because it is more than 7000 hectares wide, the arc-shaped bay has more than 400 large and small islands covered with green.",
+            "difficult":"Price: Boat rental here is about 100,000-300,000 VND/person",
+            "bestime":"There are 2 spectacular kayaking locations for visitors to choose from: Monkey Island or Ba Trai Dao Island."
+          },
+          {
+            "name":"Chay River - Dark Cave",
+            "location":"Feature: Kayaking on Chay River, visitors will have the opportunity to meet many beautiful rapids, many strange aquatic animals. Take in the view of the jade-green river and be nestled next to the magnificent limestone mountains and follow the stream through the ancient forests, the immense corn fields.",
+            "difficult":"Price: Ticket price for the package tour of the 2 places above is 450,000 VND for guests from 1 m3 high with full of games, kayaking, mud bathing. Child ticket 150,000 VND.",
+            "bestime":"This is a beautiful kayaking spot in Vietnam located in the sunny and windy Central region, specifically in Phong Nha - Ke Bang National Park (Quang Binh)."
+          },
+          {
+            "name":"Name: Tuyen Lam Lake",
+            "location":"Feature: Surrounded by mountains and forests, Tuyen Lam Lake possesses many oases, boating on the lake will make guests fascinated by seeing the peaceful, green scenery and immersing in the fresh space.",
+            "difficult":"Price: Boat tours to visit the lake cost about 250,000-300,000 VND / person, with the service including the cost of guides, coaches, tickets to the tour, food and drinks.",
+            "bestime":"October - December, when the maple leaves turn red and yellow, is also the best time to visit the lake. In addition, visitors can experience picking strawberries, picking persimmons and exploring Tuyen Lam forest."
+          }
+        ]
+      } 
+    },
+      "Cooker":[
+        {
+          "name":"Dương Huy Khải",
+          "img":"https://www.cet.edu.vn/wp-content/uploads/2019/03/am-thuc-viet-la-so-1-the-gioi.jpg"
+        },
+        {
+          "name":"Michel Bảo Huỳnh",
+          "img":"https://cdnimg.vietnamplus.vn/uploaded/fsmsr/2016_01_31/img_4180.jpg"
+        },
+        {
+          "name":"Luke Nguyễn",
+          "img":"https://vcdn-dulich.vnecdn.net/2018/07/14/image1-jpeg-2358-1531548268.jpg"
+        },
+        {
+          "name":"Trần Văn Hai",
+          "img":"data:image/jpeg;base64,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"
+        },
+        {
+          "name":"Nguyễn Thị Diệu Thảo.",
+          "img":"https://images.toplist.vn/images/800px/duong-huy-khai-54118.jpg"
+        },
+        {
+          "name":"Phan Tôn Tịnh Hải",
+          "img":"https://tomimarkets.net/wp-content/uploads/2020/07/dau-bep-Phan-Ton-Tinh-Hai-2-Tomimarkets.jpg"
+        },
+        {
+          "name":"Christine Hà",
+          "img":"https://kenh14cdn.com/thumb_w/660/203336854389633024/2021/8/19/christine-ha-photo1-16293791649251571407099.jpg"
+        },
+        {
+          "name":"Phạm Tuấn Hải",
+          "img":"https://www.cet.edu.vn/wp-content/uploads/2019/03/chef-pham-tuan-hai.jpg"
+        }
+      ],
+      "michelin":[
+        {
+          "name":"Anan Sài Gòn",
+          "ava":"https://mkt.1cdn.vn/2023/06/06/anan-saigon-chef-and-staff.png",
+          "text":"Peter Cuong Franklin is a Vietnamese-American chef who was born and raised in Dalat in central Vietnam and trained at prestigious Le Cordon Bleu and world-famous restaurants including Caprice in Hong Kong, Alinea in Chicago. A pioneer in modern Vietnamese and Asian cuisine, he is one of the most recognizable faces on the country’s dynamic gastronomic scene. His true culinary inspiration is his mother, who runs a small noodle shop in Dalat in central Vietnam and is famed for her Nem Nướng grilled pork sausage and Mì Quảng prawn & pork turmeric noodle soup. Chef Peter’s “Cuisine Mói” or “New Vietnamese Cuisine” reflects his vision of a modern Vietnam that is deeply respectful of its history and traditions yet progressive and international in outlook. He takes inspiration from the country’s vibrant food culture and uses fresh ingredients often sourced from local markets while incorporating French culinary techniques honed during his training at Le Cordon Bleu.",
+          "location":" 89 Ton That Dam, Ben Nghe, District 1, Ho Chi Minh City"
+        },
+        {
+          "name":"Gia restaurant",
+          "ava":"https://assets.gia-hanoi.com/cover-scaled.webp",
+          "text":"Gia Restaurant is a restaurant that pursues the path of high-class Vietnamese cuisine. Gia's inspiration comes from the respect for traditional Vietnamese cuisine, the beauty of regional culture and the love for \"family\". We use local ingredients and spices as the foundation, combined with modern cooking techniques as a new approach to Vietnamese cuisine. June 2023, Chef Sam Tran received the Young Chef Award from the Michelin Guide. April 2022, Chef Sam Tran and Chef Julien Perraudin of Quince Eatery Saigon collaborate on the culinary event “Playing with fire”. November 2022, Meeting Saigon diners for the first time in the Kitchen Pop up event, held at Vesper Gourment Lounge. November 2021, Following the success of the \"A Night Of Rising Star\" event, Gia continues to mark the journey of connecting diverse cuisines with the event \"Better Together\", in collaboration with Chef Takahiro Ishida of Kappou Ishida. May 2021, Gia's first culinary event \"A Night Of Rising Star\", in collaboration with Chef Viet Hong. December 2020, Gia started working. March 2020, Chef Sam Tran and CEO Long Tran started to come up with the idea to build",
+          "location":"61 Ward of the Temple of Literature, Dong Da, Hanoi"
+        },
+        {
+          "name":"Hibana By Koki",
+          "ava":"https://vcdn1-dulich.vnecdn.net/2023/06/08/DNG-2749-1686191949.jpg?w=460&h=0&q=100&dpr=2&fit=crop&s=Z-u28thtRAzyZrNnez4oPw",
+          "text":"The space of Hibana by Koki restaurant is bold in the style of the elite and is thought of as a private kitchen located in the heart of the Capella Hanoi Hotel. Every diner when coming to the restaurant will fully feel the luxurious beauty and modern trendy style. Furniture and tools are very clean and tidy. Hibana by Koki's diverse restaurant menu. Hibana by Koki restaurant menu. Hibana by Koki restaurant menu. The restaurant menu is very diverse when used for both foreigners and Vietnamese. In particular, the restaurant also has each type of menu for guests to easily choose according to the price that suits their pocket. On the menu, the restaurant's most prominent dishes are Yaeyama Kyori beef soup, spiny lobster and crispy grilled beef.",
+          "location":" Basement 1 & 2, Capella Hanoi, 11 Le Phung Hieu, Hoan Kiem, Hanoi."
+        },
+        {
+          "name":"Tầm Vị",
+          "ava":"https://images.foody.vn/res/g93/924824/prof/s/foody-upload-api-foody-mobile-tam-vi-190603111021.jpg",
+          "text":"Located amidst the hustle and bustle of modern life, Tam Vi restaurant has a classic atmosphere, creating a place for the soul to find peace. The restaurant is built on the model of a quiet, two-storey wooden house, with about 20 tables serving about 100 diners at the same time. From walls, ceilings, floors, stairs to antique furniture, bamboo chopsticks, every detail recreates the image of an ancient house. In addition, the shop also has a small yard with many trees, creating an ideal space to enjoy on cool days. Tam Vi restaurant not only owns an idyllic and simple space, but also carries an extraordinary elegance and sophistication. That can be achieved through the meticulousness and care of its creators. Here, delicious rice is not only through the hands of the chef, but also through the dining space. When coming to Tam Vi, diners will enjoy a cool meal in a relaxed space, bringing peace and serenity.",
+          "location":"4B Yen The Street, Hanoi."
+        }
+      ],
+      "Rate": {
+        "Avatar":[
+            "https://columbiabusinessreport.com/core/files/scbiznews/uploads/images/Gordon%20Ramsayonline.jpg",
+            "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/open_graph_image/public/Marco-Pierre-White.jpg?itok=G4_lne2w",
+            "https://35express.org/wp-content/uploads/2022/03/tom-tat-tieu-su-ly-lich-ve-rapper-jay-park-35express.jpg"
+        ],
+        "Name": [
+            "Gordon Ramsay",
+            "Marco Pierre White",
+            "Jay Park"
+        ],
+        "Career": [
+            "Cook",
+            "Cook",
+            "Rapper"
+        ],
+        "Comment":[
+            "\"Thank God I wasn't born in Vietnam, I'm just a bad cook here.\" This is the saying that was uttered when Gordon tried to make Vietnamese banh cuon. Vietnamese banh cuon is a simple but delicate dish and requires \"utmost delicacy\" as described by the chef.",
+            "Vietnam's cuisine left an unforgettable mark on my taste buds. The distinctiveness of each dish, shaped by the country's rich cultural tapestry, is truly remarkable. From the velvety smoothness of the pho broth to the crispy crunch of the banh xeo (Vietnamese crepes), every bite was an adventure.",
+            "Vietnam's cuisine blew me away with its explosion of flavors and fresh ingredients. From savoring the aromatic pho at a street-side stall in Hanoi to relishing the delectable banh mi in the bustling markets of Saigon, every bite was a journey through the country's culinary heritage."
+
+        ]
+      }
+}

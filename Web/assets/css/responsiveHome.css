@@ -1,0 +1,99 @@
+/* Mobile + Tablet */
+@media screen and (max-width: 63.9375em)  {
+    * {
+        --section-padding: 100px;
+    }
+    .special__text h1::after {
+        height: 30px;
+    }
+    
+    .activity__list{
+        display: flex;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        margin: 40px 30px;
+    }
+    .activity__item {
+        scroll-snap-align: center;
+    }
+    .activity-img {
+        margin: 0 auto;
+        display: block;
+    }
+    .activity__offer {
+        padding: var(--section-padding) 0;
+    }
+    .activity__offer-item-img {
+        /* display: none; */
+        width: 100px;
+        height: 100px;
+    }
+    .activity__offer-item-text h1 {
+        font-size: 2rem
+    }
+    .activity__offer-item-text p {
+        font-size: 1.5rem;
+    }
+    
+    .activity__map-des {
+        padding: 0;
+    }
+    .achievement-item {
+        height: 90%;
+        margin: 18px 0;
+    }
+    .video {
+        padding: var(--section-padding) 30px;
+    }
+    .special__text {
+        margin: 200px 40px;
+    }
+    .activity {
+        padding: var(--section-padding) 10px;
+    }
+    .travel{
+        padding : var(--section-padding) 15px;
+    }
+    .achievement {
+        padding: var(--section-padding) 15px;
+    }
+    .event {
+        padding: var(--section-padding) 15px;
+    }
+    .video {
+        padding: var(--section-padding) 15px;
+    }
+    .video-wrapper iframe {
+        height: 300px;
+    }   
+}
+
+@media  (min-width: 46.1875px) and (max-width: 63.9375em)  {
+    .activity__offer-direct-list {
+        /* height: 600px; */
+    }
+    .activity__offer-item-img {
+        width: 80px;
+        height: 80px;
+        display: none;
+    }
+    .header-nav--end {
+        justify-content: space-around;
+    }
+}
+
+/* Mobile */
+@media screen and (max-width: 46.1875em)  {
+    .activity__offer-item-img {
+        width: 80px;
+        height: 80px;
+        display: none;
+    }
+    .activity-text h3 {
+        display: none;
+    }
+    .activity__offer-direct-list {
+        display: none;
+    }
+}

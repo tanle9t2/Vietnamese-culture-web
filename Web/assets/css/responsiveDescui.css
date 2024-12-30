@@ -1,0 +1,345 @@
+
+/*bigTable*/
+@media (max-width:64em) {
+    :root {
+        --header-height:665px
+    }
+    .header__thumnail-img {
+        position: relative;
+        top: -30%;
+        right: -100%;
+    }
+    .header__thumnail-text {
+        font-size: 4.3rem;
+    }
+    .body-intro__banner {
+        width: 146px;
+        height: 115px;
+    }
+    .body-intro__text {
+        margin-bottom: 15px;
+    }
+    .body-michelin-item {
+        flex-wrap: wrap;
+    }
+    .body-suggest-outline {
+        min-height: 604px;
+    }
+    /* .menu-food-list {
+        min-height: 840px;
+    } */
+    .body-rate__say {
+        height: auto;
+        width: auto;
+    }.body-rate-contain {
+        min-height: 125px;
+    }
+    .body-profes-main {
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+     }
+     .body-profes__item {
+        scroll-snap-align: center;
+    }
+    .body-profes-contral {
+        display: none;
+    }
+    .body-profes__avt {
+        width: 100%;
+        height: 250px;
+    }
+    .menu-food-list {
+        min-height: 840px;
+    }
+}
+/*Mobile - Table*/
+@media (min-width:46.25em) and (max-width:63.9375em){
+    #header {
+        height: auto;
+    }
+    .header__thumnail-img {
+        top: -209px;
+        right: -70%;
+        width: 25%;
+    }
+    .header__thumnail-text {
+        font-size: 4.7rem;
+    }
+    .body-intro__banner {
+        width: 180px;
+        height: 115px;
+    }
+    .circle {
+        height: 34px;
+    }
+    .body-intro__text {
+        margin-bottom: 15px;
+    }
+    .body-destination__item-text {
+       min-height: 70px;
+    }
+    .line:nth-child(even) {
+        border: none;
+    }
+    .line:nth-child(odd) {
+        padding-left: 0px;
+    }
+    .body-detail__infor {
+        width: 100%;
+    }
+    #body-activity {
+        -webkit-mask:none;
+    }
+    /*cuise*/
+    .body-intro__img {
+        width: 100%;
+        height: auto;
+    }
+    .body-suggest__img {
+        min-height: 590px;
+        width: 100%;
+    }
+    .body-suggest-outline {
+        margin: 10px 0;
+    }
+    .body-rate-contain {
+        min-height: 90px;
+        max-height: 90px;
+    }
+    .body-rate__say {
+        height: auto    ;
+    }
+    .body-rate--pro {
+        margin: 30px auto 0px auto;
+    }
+    .body-profes-infor {
+        padding: 0;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .body-michelin-item {
+        flex-wrap: wrap;
+    }
+    .body-profes-contral__btn--tablet {
+        display: block;
+    }
+    .body-profes__avt {
+        width: 100%;
+        height: 450px;
+    }
+    .body-profes-main {
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+     }
+     .body-profes__item {
+        scroll-snap-align: center;
+    }
+    .order {
+        order: 1;
+    }
+}
+/*Mobile*/
+@media (max-width:46.1875em){
+    #header {
+        height: auto;
+    }
+    .header__thumnail-img {
+        top: -79px;
+        right: 10px;
+        width: 50%;
+    }
+    .header__thumnail-text {
+        font-size: 3.7rem;
+        margin-top: 5%;
+    }
+    .body-intro__banner {
+        width: 150px;
+        height: 100px;
+    }
+    .body-suggest__title-text {
+        font-size: 4rem;
+        line-height: 4rem;
+    }
+    /* .line {
+        border: none;
+        padding: 0;
+    } */
+    .heritage-contain__msg--down::after {
+        display: none;
+    }
+    .heritage-contain__year--down::before {
+        display: none;
+    }
+    .heritage-contain__year--up::before {
+        display: none;
+    }
+    .heritage-contain__msg--up::before {
+        display: none;
+    }
+    .body-heritage__contain {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        scroll-snap-type: x proximity;
+        transition: all linear 0.3s;
+    }
+    .line {
+        scroll-snap-align: start;
+        scroll-snap-stop: always;
+    }
+    .body-activity-outline {
+        width: 100%;
+    }
+    #body-activity {
+        -webkit-mask:none;
+    }
+    .body-activities__body {
+        padding: 0;
+    }
+    .body-detail__infor {
+        width: 100%;
+    }
+    .body-detail__infor-title {
+        min-width: 170px
+    }
+    #body-intro {
+        padding: 15px;
+    }
+    #body-heritage {
+        padding: 15px;
+    }
+    #body-activity {
+        padding: 15px;
+    }
+    #body-detail {
+        padding: 15px;
+    }
+    /*cuise*/
+    .body-intro__img {
+        height: 360px;
+        width: 100%;
+    }
+    .body-suggest-outline {
+        margin: 8px 0px;
+    }
+    .menu-nav-list__item {
+        margin: 0px 8px;
+        padding: 5px 5px;
+        min-width: 82px;
+        font-size: 1.4rem;
+    }
+    #body-listfood {
+        padding: 30px;
+    }
+    .menu-food-item__img {
+        width: 80px;
+        height: 80px;
+        margin-left: 5px;
+        margin-top: 15px;
+    }
+    #body-rate {
+        padding: 30px;
+    }
+    .body-rate__say {
+        height: auto;
+        width: 90%;
+        margin: auto;
+        padding: 30px;
+        background-color: #101418;
+        overflow: hidden;
+    }
+    .body-rate-contain {
+        min-height: 250px;
+        max-height: 280px;
+    }
+    .body-profes-main {
+       overflow-x: auto;
+       scroll-snap-type: x mandatory;
+    }
+    .body-profes__item {
+        scroll-snap-align: center;
+    }
+    .body-profes__avt {
+        width: 100%;
+        height: 180px;
+    }
+    #body-about {
+        padding: 30px;
+    }
+    #body-suggest {
+        padding: 30px;
+    }
+    .menu-nav-list {
+        flex-wrap: wrap;
+    }
+    .menu-nav-list__item {
+        margin: 11px 0px;
+        padding: 5px 5px;
+        min-width: 114px;
+        font-size: 1.4rem;
+        flex-wrap: wrap;
+    }
+    .menu-food-item__img {
+        align-self: flex-start;
+    }
+    .order {
+        order: 1;
+    }
+    #body-about {
+        padding: 15px;
+    }
+    #body-suggest {
+        padding: 15px;
+    }
+    #body-listfood {
+        padding: 15px;
+    }
+    #body-rate {
+        padding: 15px;
+    }
+    #body-profes {
+        padding: 15px;
+    }
+    #body-michelin {
+        padding: 15px;
+    }
+    
+}
+/*small-mobile*/
+@media (max-width:20em) {
+    .body-intro__banner {
+        width: 115px;
+        height: 80px
+    }
+   
+    .body-detail__title {
+        font-size: 4rem;
+    }
+    .body-detail__infor {
+        font-size: 1.5rem;
+    }
+    .menu-food-item__img {
+        width: 83px;
+        height: 100px;
+        margin-left: 5px;
+    }
+    .body-rate__say {
+        padding: 18px;
+    }
+    .body-rate-head__infor-name {
+        font-size: 2rem;
+    }
+    .body-rate-head__icon {
+        font-size: 4rem;
+        margin-left: 3px;
+    }
+    .body-rate-contain {
+        min-height: 300px;
+    }
+    .body-michelin__contain {
+        text-align: left;
+    }
+    .header-nav--end {
+        justify-content: center;
+    }
+  
+}
